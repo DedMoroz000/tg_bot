@@ -3,7 +3,7 @@ import telebot
 from telebot.types import Message
 import os
 
-bot = telebot.TeleBot('7354187699:AAFjphXqBSUoon8zg6nwVMbod_o2d8Bb7kE')
+bot = telebot.TeleBot('')
 
 bot.answer_cache = {}
 
